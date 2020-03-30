@@ -12,3 +12,5 @@ P2 A + Menu = Enable / Disable P2 MM
 
 Rewind + P1 = Close App
 Z + Menu = Open / Close x360ce 4.10 
+
+v1.4
