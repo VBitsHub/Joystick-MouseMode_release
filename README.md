@@ -14,3 +14,4 @@ Rewind + P1 = Close App
 Z + Menu = Open / Close x360ce 4.10 
 
 v1.4
+- If the app isn't run in Admin mode it will automatically reload into admin mode
